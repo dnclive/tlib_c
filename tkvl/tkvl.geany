@@ -1,0 +1,23 @@
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=tmem
+base_path=/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tkvl/
+description=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=1
+FILE_NAME_0=126;Make;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tkvl/Makefile;0;4
+FILE_NAME_1=8101;C;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tkvl/tkvl.c;0;4
+FILE_NAME_2=2337;C;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tkvl/tkvl.h;0;4
+FILE_NAME_3=1430;C;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tkvl/tkvl_deb.c;0;4

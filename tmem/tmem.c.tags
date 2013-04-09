@@ -1,0 +1,37 @@
+# format=tagmanager
+anon_struct_0Ì2048Ö0
+flagÌ64Î_tmemblockÖ0Ïlong
+freememÌ64Î_tmemblockÖ0Ïlong
+memÌ64Îanon_struct_0Ö0Ïvoid
+memsizeÌ64Î_tmemblockÖ0Ïlong
+nextblockÌ64Î_tmemblockÖ0Ïtmemblock
+refcountÌ64Î_tmemblockÖ0Ïlong
+selfÌ64Î_tdebÖ0Ïtdeb
+selfblockÌ64Î_tmemblockÖ0Ïtmemblock
+tdebÌ4096Ö0Ï_tdeb
+tdeb_fcreÌ1024Í()Ö0Ïtdeb *
+tdeb_fdebÌ1024Í(char *group, char *fmt, ...)Ö0Ïint
+tdeb_fdebgroupÌ1024Í()Ö0Ïchar *
+tdeb_finitÌ1024Í(char *group)Ö0Ïtdeb *
+tdebhÌ65536Ö0
+tintÌ65536Ö0
+tmem_fallocÌ1024Í(int size)Ö0Ïvoid *
+tmem_falloc_intÌ1024Í(void **selfp, int size)Ö0Ïvoid *
+tmem_falloc_refÌ1024Í(void **selfp, int size, int is_pointer)Ö0Ïvoid *
+tmem_fdumpÌ1024Í()Ö0Ïint
+tmem_ffreeÌ1024Í(void *mem)Ö0Ïint
+tmem_ffree_allÌ1024Í()Ö0Ïint
+tmem_ffreememÌ1024Í(tmemblock *mb)Ö0Ïlong
+tmem_finitÌ1024Í(long size_in_byte)Ö0Ïtmemblock *
+tmem_fmbÌ1024Í(void *self)Ö0Ïtmemblock *
+tmem_fmemÌ1024Í(tmemblock *mb)Ö0Ïvoid *
+tmem_fnullÌ1024Í(tmemblock *mb)Ö0Ïtmemblock *
+tmem_freallocÌ1024Í(tmemblock *mb, int size)Ö0Ïvoid *
+tmem_frefÌ1024Í(void *self, void ***selfp)Ö0Ïvoid *
+tmem_funrefÌ1024Í(void **selfp)Ö0Ïvoid *
+tmem_init_size_in_byte_defaultÌ65536Ö0
+tmem_pointer_sizeÌ65536Ö0
+tmemblockÌ4096Ö0Ï_tmemblock
+tmemhÌ65536Ö0
+tmempÌ4096Ö0Ïanon_struct_0
+usememÌ64Î_tmemblockÖ0Ïlong

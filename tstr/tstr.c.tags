@@ -1,0 +1,75 @@
+# format=tagmanager
+anon_struct_0Ì2048Ö0
+anon_struct_2Ì2048Ö0
+anon_struct_3Ì2048Ö0
+anon_struct_4Ì2048Ö0
+anon_struct_5Ì2048Ö0
+anon_union_1Ì8192Ö0
+flagÌ64Î_tmemblockÖ0Ïlong
+freememÌ64Î_tmemblockÖ0Ïlong
+fspaceÌ64Îanon_struct_5Ö0Ïtnum
+fvalÌ64Îanon_union_1Ö0Ïfloat
+ivalÌ64Îanon_union_1Ö0Ïlong
+lenÌ64Îanon_struct_5Ö0Ïtnum
+maxÌ131072Í(a,b)Ö0
+memÌ64Îanon_struct_0Ö0Ïvoid
+memsizeÌ64Î_tmemblockÖ0Ïlong
+mfcopyÌ131072Í(self, val)Ö0
+mffreeÌ131072Í(type, self)Ö0
+nextblockÌ64Î_tmemblockÖ0Ïtmemblock
+refcountÌ64Î_tmemblockÖ0Ïlong
+selfÌ64Î_tcreÖ0Ïtcre
+selfÌ64Î_tdebÖ0Ïtdeb
+selfblockÌ64Î_tmemblockÖ0Ïtmemblock
+strÌ64Îanon_struct_5Ö0Ïtchar
+tcharÌ4096Ö0Ïchar
+tcreÌ4096Ö0Ï_tcre
+tcre_fcharÌ1024Í(void **self, long count)Ö0Ïtcre *
+tcre_finitÌ1024Í()Ö0Ïtcre *
+tcre_fnumÌ1024Í(void **self, long count)Ö0Ïtcre *
+tcre_frefÌ1024Í(void **self, long count)Ö0Ïtcre *
+tcrehÌ65536Ö0
+tdebÌ4096Ö0Ï_tdeb
+tdeb_fcreÌ1024Í()Ö0Ïtdeb *
+tdeb_fdebÌ1024Í(char *group, char *fmt, ...)Ö0Ïint
+tdeb_fdebgroupÌ1024Í()Ö0Ïchar *
+tdeb_finitÌ1024Í(char *group)Ö0Ïtdeb *
+tdebhÌ65536Ö0
+tdoubleÌ4096Ö0Ïanon_struct_4
+tfloatÌ4096Ö0Ïanon_struct_3
+tintÌ65536Ö0
+tlongÌ4096Ö0Ïanon_struct_2
+tmem_fallocÌ1024Í(int size)Ö0Ïvoid *
+tmem_falloc_intÌ1024Í(void **selfp, int size)Ö0Ïvoid *
+tmem_falloc_refÌ1024Í(void **selfp, int size, int is_pointer)Ö0Ïvoid *
+tmem_fdumpÌ1024Í()Ö0Ïint
+tmem_ffreeÌ1024Í(void *mem)Ö0Ïint
+tmem_ffree_allÌ1024Í()Ö0Ïint
+tmem_ffreememÌ1024Í(tmemblock *mb)Ö0Ïlong
+tmem_finitÌ1024Í(long size_in_byte)Ö0Ïtmemblock *
+tmem_fmbÌ1024Í(void *self)Ö0Ïtmemblock *
+tmem_fmemÌ1024Í(tmemblock *mb)Ö0Ïvoid *
+tmem_fnullÌ1024Í(tmemblock *mb)Ö0Ïtmemblock *
+tmem_freallocÌ1024Í(tmemblock *mb, int size)Ö0Ïvoid *
+tmem_frefÌ1024Í(void *self, void ***selfp)Ö0Ïvoid *
+tmem_funrefÌ1024Í(void **selfp)Ö0Ïvoid *
+tmem_init_size_in_byte_defaultÌ65536Ö0
+tmem_pointer_sizeÌ65536Ö0
+tmemblockÌ4096Ö0Ï_tmemblock
+tmemhÌ65536Ö0
+tmempÌ4096Ö0Ïanon_struct_0
+tnumÌ4096Ö0Ïanon_union_1
+tp_pcntÌ64Îanon_struct_5Ö0Ïtnum
+tstrÌ4096Ö0Ïanon_struct_5
+tstr_enc_asciiÌ65536Ö0
+tstr_enc_unicodeÌ65536Ö0
+tstr_fcopy_pchar2strÌ1024Í(tstr *self, char *sourse_str)Ö0Ïtstr *
+tstr_fcreÌ1024Í(tstr **selfp)Ö0Ïtstr *
+tstr_ffreeÌ1024Í(tstr **selfp)Ö0Ïtstr *
+tstr_finitÌ1024Í()Ö0Ïtstr *
+tstr_fncopy_pchar2strÌ1024Í(tstr *self, char *source_str, int n)Ö0Ïtstr *
+tstr_fpÌ1024Í(tstr **selfp, tstr *str)Ö0Ïtstr *
+tstr_funpÌ1024Í(tstr **selfp)Ö0Ïtstr *
+tstrhÌ65536Ö0
+usememÌ64Î_tmemblockÖ0Ïlong
+uvalÌ64Îanon_union_1Ö0Ïlong

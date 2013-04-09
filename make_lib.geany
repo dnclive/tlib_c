@@ -1,0 +1,25 @@
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=make_lib
+base_path=/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/
+description=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=5
+FILE_NAME_0=1475;Sh;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/make_lib.sh;0
+FILE_NAME_1=525;Make;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tlib/Makefile;0
+FILE_NAME_2=137;C;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tlib/tlib.c;0
+FILE_NAME_3=0;Пустой;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tlib/tlib.geany;0
+FILE_NAME_4=669;C;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tlib/tlib.h;0
+FILE_NAME_5=921;C;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tlib/tlib_deb.c;0

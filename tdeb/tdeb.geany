@@ -1,0 +1,24 @@
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=tmem
+base_path=/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tdeb/
+description=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=4
+FILE_NAME_0=490;Make;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tdeb/Makefile;0
+FILE_NAME_1=256;C;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tdeb/tdeb.c;0
+FILE_NAME_2=91;C;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tdeb/tdeb.h;0
+FILE_NAME_3=640;C;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tdeb/tdeb.c;0
+FILE_NAME_4=1540;C;0;16;1;1;0;/home/dnclive/медиа/работа/проекты/c_cpp/c/lib/tdeb/tdeb_deb.c;0
